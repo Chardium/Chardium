@@ -7,6 +7,10 @@
 
 📺 YouTube: [EySXBT](https://www.youtube.com/@eysxbt)
 
+📸 Instagram: [EySXBT](https://www.instagram.com/eysxbt)
+
+🎵 TikTok: [EySXBT](https://www.tiktok.com/@eysxbt)
+
 🤖 Reddit: [EySXBT](https://www.reddit.com/user/EySXBT/)
 
 ## 📊 GitHub Stats
