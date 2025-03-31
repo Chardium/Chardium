@@ -1,9 +1,9 @@
-# Hello, I'm EySXBT👋
+# Hello, I'm Chardium👋
 
 ## 📫 How to Reach Me
  🎮 Discord: *eysxbt*
  
-🐦 Twitter / X: [@Cherdom1](https://x.com/Cherdom1)
+🐦 Twitter / X: [@Chardium](https://x.com/Chardium1)
 
 📸 Instagram: [EySXBT](https://www.instagram.com/eysxbt)
 
