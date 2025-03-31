@@ -1,7 +1,7 @@
 # Hello, I'm Chardium👋
 
 ## 📫 How to Reach Me
- 🎮 Discord: *eysxbt*
+ 🎮 Discord: *chardium1*
  
 🐦 Twitter / X: [@Chardium](https://x.com/Chardium1)
 
