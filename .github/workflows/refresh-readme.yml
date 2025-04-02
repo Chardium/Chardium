@@ -1,0 +1,18 @@
+name: Refresh GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every 24 hours (midnight UTC)
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Force README refresh
+        run: |
+          git commit --allow-empty -m "Automated README refresh"
+          git push
