@@ -6,6 +6,7 @@
 🐦 Twitter / X: [@Chardium](https://x.com/Chardium1)
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chardium&show_icons=true&theme=radical)
+![Metrics](https://metrics.lecoq.io/Chardium)
+
 
 ⭐️ From [Chardium](https://github.com/Chardium)
