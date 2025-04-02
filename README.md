@@ -6,7 +6,8 @@
 🐦 Twitter / X: [@Chardium](https://x.com/Chardium1)
 
 ## 📊 GitHub Stats
-![Metrics](https://metrics.lecoq.io/Chardium)
+![trophy](https://github-profile-trophy.vercel.app/?username=Chardium&theme=dracula)
+
 
 
 ⭐️ From [Chardium](https://github.com/Chardium)
